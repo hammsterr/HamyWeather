@@ -1,34 +1,41 @@
 {
   "project_info": {
-    "project_number": "1045292292228",
-    "firebase_url": "https://weather-e2001.firebaseio.com",
-    "project_id": "weather-e2001",
-    "storage_bucket": "weather-e2001.appspot.com"
+    "project_number": "755573392459",
+    "project_id": "hamyweatherapp",
+    "storage_bucket": "hamyweatherapp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1045292292228:android:f302f03692874e09",
+        "mobilesdk_app_id": "1:755573392459:android:83f8b00aa2f8ea0759b9ce",
         "android_client_info": {
-          "package_name": "com.github.bkhezry.weather"
+          "package_name": "com.github.hamy.weather"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1045292292228-2u212i7j1q30rchb19t25tf9f2g33ise.apps.googleusercontent.com",
+          "client_id": "755573392459-n53m4totu6bs1dk0k2vboqck4p60geo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.hamy.weather",
+            "certificate_hash": "1aca59ca75000b4c5539a4b2ea0c20d0e0eb66b4"
+          }
+        },
+        {
+          "client_id": "755573392459-510h5j3s531ogp1lf3ngag593nonvvn8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAKLQH8si7vbvG_-z47Xido5PGnTJPa_F4"
+          "current_key": "AIzaSyCxGpnuVfJOuMIZ2grXDXQW90mrxpE-ihE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1045292292228-2u212i7j1q30rchb19t25tf9f2g33ise.apps.googleusercontent.com",
+              "client_id": "755573392459-510h5j3s531ogp1lf3ngag593nonvvn8.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
